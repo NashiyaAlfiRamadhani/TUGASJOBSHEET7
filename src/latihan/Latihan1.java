@@ -30,7 +30,7 @@ public class Latihan1 {
        System.out.println("nIF.. 3");
        if(a > 5) {
            System.out.println("isi variabel a : "+ a);
-           System.out.println("Nilai a lebih dari 5");
+           System.out.println("Nilai a lebih dari 5");                
        } 
    }
     
