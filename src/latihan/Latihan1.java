@@ -37,6 +37,7 @@ public class Latihan1 {
                System.out.println("isi variabel a :" +a);
                System.out.println("nilai a kurang dari 5");
            } else System.out.println("nilai lebih dari atau sama dengan 5");
+           
        }
    }
 }
